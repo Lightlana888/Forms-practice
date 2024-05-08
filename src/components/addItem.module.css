@@ -1,0 +1,30 @@
+.containerForm {
+    display: flex;
+    flex-direction: column;
+    height: 80vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.input {
+    width: 20rem;
+    height: 2rem;
+    border-radius: 10px;
+    background-color: #eee;
+
+}
+
+.button {
+    height: 3rem;
+    width: 10rem;
+    margin-top: 20px;
+    background-color: rgb(78, 136, 60);
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
+
+.list {
+
+    color: rgb(22, 51, 22);
+}
